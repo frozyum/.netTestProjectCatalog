@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Rx+Q+JVADmro+NNwmFIZHnU94lKMAarzjP+m5fil32y4+4j3wu7yzDLAZM3ZA02se6nEm0msXy/LYvAtGml9w==",
+  "success": true,
+  "projectFilePath": "/Users/sandro/Desktop/TestProjects/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/sandro/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sandro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sandro/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/sandro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/sandro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/sandro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
